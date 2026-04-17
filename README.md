@@ -1,5 +1,26 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150"/>
+
+# 👾 Welcome, Traveler
+
+### 🧠 SYSTEM PROFILE: [YOUR NAME]
+> "Code. Build. Optimize. Repeat."
+
+</div>
+
+---
+
+## 🧬 Player Stats
+
+```txt
+🧑‍💻 Role: Full Stack Developer
+⚡ Level: Grinding...
+🔥 Current Streak: Always Learning
+📦 Projects: 19+
+🧠 Focus: Web Apps | SaaS | Systems
+<div align="center">
+
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
 
 # ⚡ SYSTEM INITIALIZED
